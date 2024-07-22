@@ -4,7 +4,7 @@
 I am a recent graduate from Portsmouth University, graduating with a 2:1 MPhys (Hons) degree.
 
 # Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="30" height="30" />
 
 <!---
 - 👋 Hi, I’m @BenChurchillUK
