@@ -1,7 +1,10 @@
 # Benjamin Roger Churchill
 **`Novice Coder`**
 
-I am a recent graduate from Portsmouth University, graduating with a 2:1 MPhys degree.
+I am a recent graduate from Portsmouth University, graduating with a 2:1 MPhys (Hons) degree.
+
+# Languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 
 <!---
 - 👋 Hi, I’m @BenChurchillUK
