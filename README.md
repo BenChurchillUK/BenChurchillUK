@@ -1,5 +1,7 @@
 # Benjamin Roger Churchill
-**`MPhys (Hons) Physics with Astrophysics and Cosmology, Second Class Upper Division`**
+**`Novice Coder`**
+
+I am a recent graduate from Portsmouth University, graduating with a 2:1 MPhys degree.
 
 <!---
 - 👋 Hi, I’m @BenChurchillUK
