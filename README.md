@@ -9,9 +9,6 @@ I am currently working on several physics based projects to expand my technical 
 # Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="30" height="30" /> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="30" height="30" />
 
-**Contact Information**
-
-Please use my LinkedIn or gmail (benjamin.churchill.uj
 <!---
 - 👋 Hi, I’m @BenChurchillUK
 - 👀 I’m interested in ...
