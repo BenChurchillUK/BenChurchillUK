@@ -1,5 +1,5 @@
 # Hey there!
-🌃**`Scientific Modelling`**
+🌃`Scientific Modelling`
 
 I'm Ben, a Masters of Physics graduate from the University of Portsmouth.
 I've taken time since graduating to support my family with readjusting after a severe workplace incident.
